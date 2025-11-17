@@ -1,0 +1,6 @@
+langflow
+openai
+fastapi
+uvicorn
+sqlalchmey
+python-dotenv
