@@ -15,7 +15,7 @@
 
 [Langflow](https://langflow.org) is a powerful platform for building and deploying AI-powered agents and workflows. It provides developers with both a visual authoring experience and built-in API and MCP servers that turn every workflow into a tool that can be integrated into applications built on any framework or stack. Langflow comes with batteries included and supports all major LLMs, vector databases and a growing library of AI tools.
 
-## ✨ Highlight features
+## ✨ Highlight features 
 
 - **Visual builder interface** to quickly get started and iterate.
 - **Source code access** lets you customize any component using Python.
