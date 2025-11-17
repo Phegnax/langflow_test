@@ -2,5 +2,5 @@ langflow
 openai
 fastapi
 uvicorn
-sqlalchmey
+sqlalchemy
 python-dotenv
